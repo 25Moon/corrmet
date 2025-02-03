@@ -90,7 +90,8 @@ header {
   text-decoration: underline;
 }
 .core li {
-  margin-bottom: 18px;
+  margin-bottom: 10px;
+  line-height: 1.5rem;
 }
 .logo h1 {
   font-size: 1.2rem;
