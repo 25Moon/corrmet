@@ -89,6 +89,9 @@ header {
   color: inherit;
   text-decoration: underline;
 }
+.core {
+  list-style: disc;
+}
 .logo h1 {
   font-size: 1.2rem;
   margin-bottom: 0.3rem;
