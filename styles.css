@@ -269,6 +269,7 @@ div.capability-section {
 }
 .pad {
   padding: 2rem;
+  max-width: 100%;
 }
 .strong {
   padding: 0 2rem !important;
@@ -295,7 +296,7 @@ div.capability-section {
 }
 .services-list {
   display: flex;
-  padding: 0 2rem 1rem 2rem;
+  padding: 0 0 1rem 0;
   gap: 2rem;
   flex-wrap: wrap;
 }
